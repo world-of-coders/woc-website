@@ -13,3 +13,23 @@
  transition: .3s background,.3s color;
  min-width:110px;
 }
+
+* {
+	font-family: 'Afta Sans', sans-serif;
+}
+
+h1 {
+	font-size: 30px;
+} 
+
+h2 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 14px;
+}
+
+ul {
+	font-size: 14px;
+}

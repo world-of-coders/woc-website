@@ -15,4 +15,4 @@ this is already covered in the license we're using (MIT) but I'd like to get the
 
 > Once that's done, click on the `index.html` file and you've successfully clone the files. Enjoy!
 
-(If you spot any errors, feel free to make a PR/edit request. Thanks!)
+If you spot any errors, feel free to make a PR/edit request. Thanks!

@@ -8,10 +8,11 @@ We cannot guarantee that by the time you decide to experiment with the code, it'
 this is already covered in the license we're using (MIT) but I'd like to get the message out because of how important it is.
 
 # Self-hosting & Running
-> Clone the files into a folder preferably somewhere on your desktop (note: I said folder, make a folder on your desktop and open the terminal in the folder by pressing shift + right click, then run: `git clone https://github.com/world-of-coders/woc-website.git` in the terminal to clone the files from here into your folder.
+> Clone the files into a folder preferably somewhere on your desktop 
+(note: I said folder, make a folder on your desktop, first, before you do anything else). 
 
-> Then, click on the `index.html` file 
+> Then, open the terminal in the folder by pressing shift + right click, then run: `git clone https://github.com/world-of-coders/woc-website.git` in the terminal to clone the files from here into your folder.
 
-You're done!
+> Once that's done, click on the `index.html` file and you've successfully clone the files. Enjoy!
 
 (If you spot any errors, feel free to make a PR/edit request. Thanks!)

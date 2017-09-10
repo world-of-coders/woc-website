@@ -15,7 +15,7 @@ this is already covered in the license we're using (MIT) but I'd like to get the
 
 > Once that's done, click on the `index.html` file and you've successfully clone the files. Enjoy!
 
-If you spot any errors, feel free to make a PR/edit request. Thanks!
-
 > Quick Update:
 > If you open the terminal on your desktop, and run `git clone https://github.com/world-of-coders/woc-website.git`, that'll work too.
+
+If you spot any errors, feel free to make a PR/edit request. Thanks!

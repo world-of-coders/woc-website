@@ -33,9 +33,11 @@
 .ul {
 	font-size: 14px;
 }
+
 .background {
     background-color: darkgray;
 }
+
 .words {
     color: floralwhite
 }
@@ -43,6 +45,7 @@
 .nav {
     display: block;
 }
+
 .nav {
     display: none;
 }

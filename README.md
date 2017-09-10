@@ -9,7 +9,8 @@ this is already covered in the license we're using (MIT) but I'd like to get the
 
 # Self-hosting & Running
 > Clone the files into a folder preferably somewhere on your desktop (note: I said folder, make a folder on your desktop and open the terminal in the folder by pressing shift + right click, then run: `git clone https://github.com/world-of-coders/woc-website.git` in the terminal to clone the files from here into your folder.
-> Click on the `index.html` file 
+
+> Then, click on the `index.html` file 
 
 You're done!
 

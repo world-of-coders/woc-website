@@ -13,7 +13,7 @@ this is already covered in the license we're using (MIT) but I'd like to get the
 
 > Then, open the terminal in the folder by pressing shift + right click, then run: `git clone https://github.com/world-of-coders/woc-website.git` in the terminal to clone the files from here into your folder.
 
-> Once that's done, click on the `index.html` file and you've successfully clone the files. Enjoy!
+> Once that's done, click on the `index.html` file and you've successfully cloned the files. Enjoy!
 
 > Quick Update:
 > If you open the terminal on your desktop, and run `git clone https://github.com/world-of-coders/woc-website.git`, that'll work too.

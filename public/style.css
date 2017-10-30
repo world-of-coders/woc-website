@@ -6,15 +6,6 @@ body, html {
   background-color: darkgray;
 }
 
-.words {
-  color: floralwhite;
-  left: 50%;
-  position: fixed;
-  text-align: center;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .btn {
   padding: 8px 20px;
   font-size: 16px;
